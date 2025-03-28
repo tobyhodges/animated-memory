@@ -67,6 +67,7 @@ contact: 'a.nenadic@manchester.ac.uk'
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- episode-01.md
 
 # Information for Learners
 learners: 
