@@ -1,5 +1,5 @@
 # Animated Memory
-This lesson is a template lesson that uses [The Carpentries Workbench][workbench]. 
+This lesson is a lesson on animated memory.
 
 ## Authors
 
